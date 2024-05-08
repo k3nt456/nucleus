@@ -5,4 +5,4 @@ Este proyecto ha sido creado con:
 
 ## 🌍 Sitio web
 
-Puedes revisar la web a través haciendlo clic a continuación [link](https://nucleus-bca.netlify.app/).
+Puedes revisar la web a través haciendo clic a continuación [link](https://nucleus-bca.netlify.app/).
